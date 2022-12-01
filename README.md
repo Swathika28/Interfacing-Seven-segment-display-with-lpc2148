@@ -1,9 +1,10 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	Swathika G
+Name :Swathika G
 
+Roll no :212221230113
 
-Roll no 212221230113
+Date of experiment : 28/10/2022
 
 
 ## Aim: 
